@@ -1,0 +1,2 @@
+quare.c:16: WARNING: suspect code indent for conditional statements (8, 24)
+8-print_square.c:21: ERROR: spaces preferred around that '-' (ctx:WxV)
